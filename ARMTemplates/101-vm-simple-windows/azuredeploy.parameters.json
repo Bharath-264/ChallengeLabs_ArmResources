@@ -3,13 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "GEN-UNIQUE"
+      "value": "AZ300-Admin"
     },
     "adminPassword": {
-      "value": "GEN-PASSWORD"
+      "value": "AZ300-Passw0rd!"
     },
     "dnsLabelPrefix": {
-      "value": "GEN-UNIQUE"
+      "value": "vm005-43169750"
     }
   }
 }
